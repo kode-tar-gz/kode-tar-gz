@@ -32,7 +32,7 @@ I also try to use FOSS everywhere I possibly can. Whether it's for programming, 
 
 [csort](https://github.com/Kode-Kun/csort) - A GUI visualizer for sorting algorithms, written in C with [raylib](https://github.com/raysan5/raylib).
 
-[bfc](https://github.com/Kode-Kun/bfc) - A simple brainfuck compiler written in C.
+[bfi](https://github.com/Kode-Kun/bfi) - A simple brainfuck interpreter written in C.
 
 ### 🤝 I'm looking to collaborate on any project I can!
 As long as it's not too far outside my area of expertise, I'm willing to work on it.
