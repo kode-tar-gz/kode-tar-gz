@@ -2,5 +2,6 @@ My favorite programming languages, represented by their respective logos on my R
 - C
 - Zig
 - Rust
+- Haskell
 
 The icons were provided by [skillicons.dev](https://skillicons.dev/)

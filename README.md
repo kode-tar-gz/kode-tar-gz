@@ -16,7 +16,7 @@ I also try to use FOSS everywhere I possibly can. Whether it's for programming, 
 
 ### ⌨️ My favorite programming languages:
 
-[![My Langs](https://skillicons.dev/icons?i=c,zig,rust&perline=4)](mylangs.md)
+[![My Langs](https://skillicons.dev/icons?i=c,zig,rust,haskell&perline=4)](mylangs.md)
 
 ### 🔎 Other relevant languages / tools I'm familiar with:
 - C++
@@ -33,6 +33,8 @@ I also try to use FOSS everywhere I possibly can. Whether it's for programming, 
 [csort](https://github.com/Kode-Kun/csort) - A GUI visualizer for sorting algorithms, written in C with [raylib](https://github.com/raysan5/raylib).
 
 [bfc](https://github.com/Kode-Kun/bfc) - A simple brainfuck compiler written in C.
+
+haskell - I'm currently teaching myself Haskell with the help of [Haskell programming from first principles](https://haskellbook.com/) by Christopher Allen and Julie Moronuki.
 
 ### 🤝 I'm looking to collaborate on any project I can!
 As long as it's not too far outside my area of expertise, I'm willing to work on it.
