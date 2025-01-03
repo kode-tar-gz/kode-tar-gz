@@ -34,7 +34,7 @@ I also try to use FOSS everywhere I possibly can. Whether it's for programming, 
 
 [bfi](https://github.com/Kode-Kun/bfi) - A simple brainfuck interpreter written in C.
 
-haskell - I'm currently teaching myself Haskell with the help of [Haskell programming from first principles](https://haskellbook.com/) by Christopher Allen and Julie Moronuki.
+[haskell](https://www.haskell.org/) - I'm currently teaching myself Haskell with the help of [Haskell programming from first principles](https://haskellbook.com/) by Christopher Allen and Julie Moronuki.
 
 ### 🤝 I'm looking to collaborate on any project I can!
 As long as it's not too far outside my area of expertise, I'm willing to work on it.
