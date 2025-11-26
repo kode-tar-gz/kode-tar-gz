@@ -1,4 +1,4 @@
-## Heya! ^~^
+## Hey!
 
 I'm Lui. I build stuff, and I occasionally break stuff.
 
