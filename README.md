@@ -30,7 +30,7 @@ I also try to use FOSS everywhere I possibly can. Whether it's for programming, 
 ### 🔭 I’m currently working on:
 [voided](https://github.com/Kode-Kun/voided) - A minimal, modal, cli-based text editor written entirely in C.
 
-[c8ke](https://github.com/Kode-Kun/c8ke) - An emulator of the Chip-8 architecture, written in C with [raylib](https://github.com/raysan5/raylib).
+[chippy](https://github.com/Kode-Kun/chippy) - An emulator of the Chip-8 architecture, written in C with [raylib](https://github.com/raysan5/raylib).
 
 [bfi](https://github.com/Kode-Kun/bfi) - A simple brainfuck interpreter written in C.
 
