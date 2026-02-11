@@ -28,13 +28,13 @@ I also try to use FOSS everywhere I possibly can. Whether it's for programming, 
 - ...
 
 ### 🔭 I’m currently working on:
-[voided](https://github.com/Kode-Kun/voided) - A minimal, modal, cli-based text editor written entirely in C.
-
 [chippy](https://github.com/Kode-Kun/chippy) - An emulator of the Chip-8 architecture, written in C with [raylib](https://github.com/raysan5/raylib).
 
 [bfi](https://github.com/Kode-Kun/bfi) - A simple brainfuck interpreter written in C.
 
 [haskell](https://www.haskell.org/) - I'm currently teaching myself Haskell with the help of [Haskell programming from first principles](https://haskellbook.com/) by Christopher Allen and Julie Moronuki.
+
+cyberdeck - I'm working on a little custom cyberdeck, consisting of an Rpi3b+, an RP2040, a couple screens and some other components. Nothing online yet, I'll be making this project public soon!
 
 ### 🤝 I'm looking to collaborate on any project I can!
 As long as it's not too far outside my area of expertise, I'm willing to work on it.
