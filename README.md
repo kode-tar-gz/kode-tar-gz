@@ -42,3 +42,4 @@ As long as it's not too far outside my area of expertise, I'm willing to work on
 ### 📫 You can reach me on:
 [![My Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kodekun.dev@gmail.com)
 [![My Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/349226187899535364)
+[![My Blog](https://img.shields.io/badge/readthemanpage-purple?style=for-the-badge)](https://readthemanpage.dev)
