@@ -28,9 +28,9 @@ I also try to use FOSS everywhere I possibly can. Whether it's for programming, 
 - ...
 
 ### 🔭 I’m currently working on:
-[chippy](https://github.com/Kode-Kun/chippy) - An emulator of the Chip-8 architecture, written in C with [raylib](https://github.com/raysan5/raylib).
+[chippy](https://github.com/kode-tar-gz/chippy) - An emulator of the Chip-8 architecture, written in C with [raylib](https://github.com/raysan5/raylib).
 
-[bfi](https://github.com/Kode-Kun/bfi) - A simple brainfuck interpreter written in C.
+[bfi](https://github.com/kode-tar-gz/bfi) - A simple brainfuck interpreter written in C.
 
 [haskell](https://www.haskell.org/) - I'm currently teaching myself Haskell with the help of [Haskell programming from first principles](https://haskellbook.com/) by Christopher Allen and Julie Moronuki.
 
