@@ -40,6 +40,7 @@ cyberdeck - I'm working on a little custom cyberdeck, consisting of an Rpi3b+, a
 When looking at any of my repositories and reading through my code, always assume NO generative AI was used in writing ANY of the code in that repo, unless I EXPLICITLY state otherwise in the repo's `README.md` and the source file itself. I'm not necessarily anti-AI, I think it's very useful for shipping things that:
 1. Won't need longterm maintenance.
 2. Is small enough in scope to where it's realistic for one person to understand the entire codebase solely as a reader.
+
 But I see little to no use in using it as a student. Don't get me wrong, I use AI all the time to learn (for example, to know what the equivalent of a C++ `vector<>` is in Java, or what are the most used TUI crates in Rust, or how the GUI designer works in IntelliJ, and much more), but I rarely use it to write code for me. I know how to; most of [my blog](https://readthemanpage.dev) is vibecoded (because I *really* didn't want to learn webdev), but I often choose not to because it's a soul-sucking activity. I genuinely enjoy writting code. I also enjoy learning, and using AI-generated code doesn't teach me anything.
 
 ### 📫 You can reach me on:
