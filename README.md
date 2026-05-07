@@ -30,14 +30,17 @@ I also try to use FOSS everywhere I possibly can. Whether it's for programming, 
 ### 🔭 I’m currently working on:
 [chippy](https://github.com/kode-tar-gz/chippy) - An emulator of the Chip-8 architecture, written in C with [raylib](https://github.com/raysan5/raylib).
 
-[bfi](https://github.com/kode-tar-gz/bfi) - A simple brainfuck interpreter written in C.
+[checkdown](https://github.com/kode-tar-gz/checkdown) - A CLI utility for recursively checking the validity of hyperlinks in markdown files. Written in Rust.
 
 [haskell](https://www.haskell.org/) - I'm currently teaching myself Haskell with the help of [Haskell programming from first principles](https://haskellbook.com/) by Christopher Allen and Julie Moronuki.
 
 cyberdeck - I'm working on a little custom cyberdeck, consisting of an Rpi3b+, an RP2040, a couple screens and some other components. Nothing online yet, I'll be making this project public soon!
 
-### 🤝 I'm looking to collaborate on any project I can!
-As long as it's not too far outside my area of expertise, I'm willing to work on it.
+### AI DISCLAIMER
+When looking at any of my repositories and reading through my code, always assume NO generative AI was used in writing ANY of the code in that repo, unless I EXPLICITLY state otherwise in the repo's `README.md` and the source file itself. I'm not necessarily anti-AI, I think it's very useful for shipping things that:
+1. Won't need longterm maintenance.
+2. Is small enough in scope to where it's realistic for one person to understand the entire codebase solely as a reader.
+But I see little to no use in using it as a student. Don't get me wrong, I use AI all the time to learn (for example, to know what the equivalent of a C++ `vector<>` is in Java, or what are the most used TUI crates in Rust, or how the GUI designer works in IntelliJ, and much more), but I rarely use it to write code for me. I know how to; most of [my blog](https://readthemanpage.dev) is vibecoded (because I *really* didn't want to learn webdev), but I often choose not to because it's a soul-sucking activity. I genuinely enjoy writting code. I also enjoy learning, and using AI-generated code doesn't teach me anything.
 
 ### 📫 You can reach me on:
 [![My Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kodekun.dev@gmail.com)
