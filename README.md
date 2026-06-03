@@ -40,6 +40,7 @@ cyberdeck - I'm working on a little custom cyberdeck, consisting of an Rpi3b+, a
 When looking at any of my repositories and reading through my code, always assume NO generative AI was used in writing ANY of the code in that repo, unless I EXPLICITLY state otherwise in the repo's `README.md` and the source file itself. I'm not necessarily anti-AI, I think it's very useful for shipping things that:
 1. Won't need longterm maintenance.
 2. Is small enough in scope to where it's realistic for one person to understand the entire codebase solely as a reader.
+
 But I see little to no use in generating code with it as a student. I genuinely enjoy writting code. I also enjoy learning, and using AI-generated code doesn't teach me anything.
 
 ### 📫 You can reach me on:
