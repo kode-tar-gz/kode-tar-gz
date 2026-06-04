@@ -20,7 +20,7 @@ I also try to use FOSS everywhere I possibly can. Whether it's for programming, 
 
 ### Other relevant languages / tools I'm familiar with:
 - C++
-- Assembly
+- ARM assembler
 - Arduino / avr-libc
 - GNU coreutils, binutils and moreutils
 - CMake
